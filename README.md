@@ -6,7 +6,7 @@ A strong grasp of mathematics, statistics, coding, and machine learning is a mus
 
 ---
 
-### [Data Science Interview Questions](docs/ds_interview_questions.pdf))
+### [Data Science Interview Questions](docs/ds_interview_questions.pdf)
 
 ### [TTS LinkedIn Candidate Guide](docs/TTS-Candidate-LinkedIn-Guide.pdf)
 
